@@ -1,0 +1,10 @@
+
+.nav-item{
+    padding: 2px;
+}
+
+.nav-link-active{
+  background-color:blue;
+  color: white;
+  font-weight: 200;
+}

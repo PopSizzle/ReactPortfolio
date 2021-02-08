@@ -11,25 +11,25 @@ function Navbar() {
       <ul className="nav nav-tabs justify-content-end">
         
         <li className="nav-item">
-          <Link to="/">
+          <Link to="/" className={location.pathname === "/" ? "nav-link-active" : "nav-link"}>
             Home
           </Link>
         </li>
 
         <li className="nav-item">
-          <Link to="/projects">
+          <Link to="/projects" className={location.pathname === "/projects" ? "nav-link-active" : "nav-link"}>
             Projects
           </Link>
         </li>
 
         <li className="nav-item">
-          <Link to="/contact">
+          <Link to="/contact" className={location.pathname === "/contact" ? "nav-link-active" : "nav-link"}>
             Contact
           </Link>
         </li>
 
         <li className="nav-item">
-          <Link to="/resume">
+          <Link to="/resume" className={location.pathname === "/resume" ? "nav-link-active" : "nav-link"}>
             Resume
           </Link>
         </li>
