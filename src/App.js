@@ -6,11 +6,13 @@ import Home from "./Pages/Home";
 import Contact from "./Pages/Contact";
 import Resume from "./Pages/Resume";
 import Projects from "./Pages/Projects";
+import Header from './components/Header';
 
 function App() {
   return (
   <Router>
     <div className="App">
+      <Header/>
       <Navbar/>
       <Switch>
       <Route exact path="/" component={Home} />
