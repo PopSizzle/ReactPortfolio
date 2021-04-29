@@ -1,9 +1,13 @@
 import React from "react";
+import ProjectCard from '../components/projectCard';
+import projects from '../Assets/projects.json';
 
 function Project() {
   return(
     <div>
-      Project page
+      {projects.map(project => {
+        <ProjectCard/>
+      })}
     </div>
 
   )
