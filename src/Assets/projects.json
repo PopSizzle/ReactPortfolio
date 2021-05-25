@@ -2,14 +2,14 @@
   {
     "id":1,
     "name": "Yum&Yum",
-    "image": "",
+    "image": "Assets/YumYum.gif",
     "description":"Yum&Yum is a MERN (MySQL-Express-React-Node) application designed and built by a three person team. This recipe database allows users to submit recipes and search by ingredient for new recipes. User authentication tracks their recipes and favorites using global state and hooks in React.",
     "technologies": ["Bootstrap", "CSS", "Express", "Git", "Heroku", "HTML", "GitHub", "JavaScript", "jQuery", "MySQL", "node.js", "axios", "React", "bcrypt.js", "firebase"]
   },
   {
     "id":2,
     "name": "Bay Area Trails Mapping and Networking",
-    "image": "",
+    "image": "Assets/batman.gif",
     "description":"Bay Area Trails Mapping and Networking (BATMaN) is a community hub and a toolset for outdoor enthusiasts. It utilizes passport.js to authenticate users and allow them to access the application. Users reviews and comments are stored in tables in a MySQL database.",
     "technologies": ["Bootstrap", "CSS", "Express", "Git", "Heroku", "HTML", "GitHub", "JavaScript", "jQuery", "MySQL", "node.js", "Passport", "Unirest"]
   },

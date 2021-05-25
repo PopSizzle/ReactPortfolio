@@ -1,12 +1,23 @@
-import React from "react";
+import React, { useState } from "react";
 import { Document, Page, pdfjs } from "react-pdf";
 
-pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
+// pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 function Resume() {
+
+//   const [numPages, setNumPages] = useState(null);
+//   const [pageNumber, setPageNumber] = useState(1);
+
+//   function onDocumentLoadSuccess({ numPages }) {
+//     setNumPages(numPages);
+//   }
+
   return(
     <div>
-      <Document file="https://powerful-stream-89480.herokuapp.com/https://drive.google.com/file/d/1DibebDB1j9zpnWgLBxD_-iLGjjdC2bZV/export?format=pdf"/>
+      <Document file="../Assets/samPoppe.pdf">
+        {/* <Page pageNumber={pageNumber} /> */}
+      </Document>
+      {/* <p>Page {pageNumber} of {numPages}</p> */}
     </div>
 
   )
