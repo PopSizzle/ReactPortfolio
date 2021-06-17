@@ -22,7 +22,6 @@ function Resume() {
       <Document file={resume} onLoadSuccess={onDocumentLoadSuccess} onLoadError={console.error}>
         <Page pageNumber={pageNumber} />
       </Document>
-      <p> Page {pageNumber} of {numPages}</p>
     </div>
 
   )
