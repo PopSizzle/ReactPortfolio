@@ -14,11 +14,15 @@ function Resume() {
   }
 
   return(
-    <div>
+    <div className="container" style={{
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+    }}>
       <Document file={resume} onLoadSuccess={onDocumentLoadSuccess} onLoadError={console.error}>
-        <Page className="text-center" pageNumber={pageNumber} />
+        <Page pageNumber={pageNumber} />
       </Document>
-      <p className="text-center"> Page {pageNumber} of {numPages}</p>
+      <p> Page {pageNumber} of {numPages}</p>
     </div>
 
   )

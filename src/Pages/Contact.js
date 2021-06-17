@@ -2,7 +2,11 @@ import React from "react";
 
 function Contact() {
   return(
-    <div>
+    <div style={{
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+    }}>
       <section className="card container col-lg-6">
         <h5 className="card-header">Contact</h5>
           <figure className="card-body">
