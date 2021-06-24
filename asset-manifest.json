@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.6bd9a716.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.c3fab28f.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.c3fab28f.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.383967ff.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.383967ff.js.map",
+    "static/js/2.89ebb4ea.chunk.js": "/ReactPortfolio/static/js/2.89ebb4ea.chunk.js",
+    "static/js/2.89ebb4ea.chunk.js.map": "/ReactPortfolio/static/js/2.89ebb4ea.chunk.js.map",
+    "static/js/3.48138adc.chunk.js": "/ReactPortfolio/static/js/3.48138adc.chunk.js",
+    "static/js/3.48138adc.chunk.js.map": "/ReactPortfolio/static/js/3.48138adc.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/css/main.6bd9a716.chunk.css.map": "/ReactPortfolio/static/css/main.6bd9a716.chunk.css.map",
+    "static/js/2.89ebb4ea.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.89ebb4ea.chunk.js.LICENSE.txt",
+    "static/media/YumYum.57ebde3c.gif": "/ReactPortfolio/static/media/YumYum.57ebde3c.gif",
+    "static/media/batman.a276add1.gif": "/ReactPortfolio/static/media/batman.a276add1.gif",
+    "static/media/googleBooks.53cc1cb5.gif": "/ReactPortfolio/static/media/googleBooks.53cc1cb5.gif",
+    "static/media/samPoppe.66d940f8.pdf": "/ReactPortfolio/static/media/samPoppe.66d940f8.pdf",
+    "static/media/teamProfile.fca076a7.png": "/ReactPortfolio/static/media/teamProfile.fca076a7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.383967ff.js",
+    "static/js/2.89ebb4ea.chunk.js",
+    "static/css/main.6bd9a716.chunk.css",
+    "static/js/main.c3fab28f.chunk.js"
+  ]
+}
