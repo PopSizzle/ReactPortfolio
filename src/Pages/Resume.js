@@ -20,7 +20,7 @@ function Resume() {
       justifyContent: 'center',
     }}>
       <Document file={resume} onLoadSuccess={onDocumentLoadSuccess} onLoadError={console.error}>
-        <Page pageNumber={pageNumber} />
+        <Page pageNumber={pageNumber} style={{ width: '150%' }}/>
       </Document>
     </div>
 

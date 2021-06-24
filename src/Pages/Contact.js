@@ -8,7 +8,7 @@ function Contact() {
       justifyContent: 'center',
     }}>
       <section className="card container col-lg-6">
-        <h5 className="card-header">Contact</h5>
+        <h3 className="card-header">Message me!</h3>
           <figure className="card-body">
             <form>
               <div className="form-group">
