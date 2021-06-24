@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.6bd9a716.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.c3fab28f.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.c3fab28f.chunk.js.map",
+    "main.js": "/ReactPortfolio/static/js/main.a1f58911.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.a1f58911.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.383967ff.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.383967ff.js.map",
     "static/js/2.89ebb4ea.chunk.js": "/ReactPortfolio/static/js/2.89ebb4ea.chunk.js",
@@ -15,6 +15,7 @@
     "static/media/YumYum.57ebde3c.gif": "/ReactPortfolio/static/media/YumYum.57ebde3c.gif",
     "static/media/batman.a276add1.gif": "/ReactPortfolio/static/media/batman.a276add1.gif",
     "static/media/googleBooks.53cc1cb5.gif": "/ReactPortfolio/static/media/googleBooks.53cc1cb5.gif",
+    "static/media/profilepic.4ac90647.jpg": "/ReactPortfolio/static/media/profilepic.4ac90647.jpg",
     "static/media/samPoppe.66d940f8.pdf": "/ReactPortfolio/static/media/samPoppe.66d940f8.pdf",
     "static/media/teamProfile.fca076a7.png": "/ReactPortfolio/static/media/teamProfile.fca076a7.png"
   },
@@ -22,6 +23,6 @@
     "static/js/runtime-main.383967ff.js",
     "static/js/2.89ebb4ea.chunk.js",
     "static/css/main.6bd9a716.chunk.css",
-    "static/js/main.c3fab28f.chunk.js"
+    "static/js/main.a1f58911.chunk.js"
   ]
 }
