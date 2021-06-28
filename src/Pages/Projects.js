@@ -38,7 +38,7 @@ let projects = [
 
 function Project() {
   return(
-    <div>
+    <div className="conatiner">
       {projects.map(project => (
         <ProjectCard key={project.id} id={project.id} title={project.name} image={project.image} description={project.description} technologies={project.technologies}/>
       ))}
