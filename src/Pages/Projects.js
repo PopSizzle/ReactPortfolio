@@ -12,7 +12,7 @@ let projects = [
     "id":1,
     "name": "Yum&Yum",
     "image": YumYum,
-    "link": "https://github.com/analoo/Yum-Yum",
+    "link": "https://github.com/PopSizzle/Yum-Yum",
     "description":"Yum&Yum is a MERN (MySQL-Express-React-Node) application designed and built by a three person team. This recipe database allows users to submit recipes and search by ingredient for new recipes. User authentication tracks their recipes and favorites using global state and hooks in React.",
     "technologies": ["Bootstrap", "CSS", "Express", "Git", "Heroku", "HTML", "GitHub", "JavaScript", "jQuery", "MySQL", "node.js", "axios", "React", "bcrypt.js", "firebase"]
   },
