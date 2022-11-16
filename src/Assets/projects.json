@@ -2,7 +2,7 @@
   {
     "id":1,
     "name": "Yum&Yum",
-    "image": "Assets/YumYum.gif",
+    "image": "../Assets/images/YumYum.gif",
     "description":"Yum&Yum is a MERN (MySQL-Express-React-Node) application designed and built by a three person team. This recipe database allows users to submit recipes and search by ingredient for new recipes. User authentication tracks their recipes and favorites using global state and hooks in React.",
     "technologies": ["Bootstrap", "CSS", "Express", "Git", "Heroku", "HTML", "GitHub", "JavaScript", "jQuery", "MySQL", "node.js", "axios", "React", "bcrypt.js", "firebase"]
   },
