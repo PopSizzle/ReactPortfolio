@@ -11,7 +11,7 @@ function ProjectCard(props){
       <div className="card-body">
       <h4 className="card-title">{props.title}</h4>
       <a href={props.link}>Live Site</a>
-      <a href={props.repo}>GitHub Repository</a>
+      <a href={props.repo}>GitHub</a>
       <p className="card-text">{props.description}</p>
       {technologies.map((tech,index) => (
         <button key={index} className="btn btn-primary">{tech}</button>
